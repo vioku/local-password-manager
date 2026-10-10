@@ -4,12 +4,10 @@
 
 **A terminal-based, offline password vault. Encrypted, no account, no cloud, zero dependencies.**
 
-[![CI](https://github.com/USERNAME/local-password-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/local-password-manager/actions/workflows/ci.yml)
+[![CI](https://github.com/vioku/local-password-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/vioku/local-password-manager/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org)
 [![Dependencies](https://img.shields.io/badge/dependencies-0-success.svg)](package.json)
-
-🇬🇧 English
 
 </div>
 
