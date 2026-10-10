@@ -7,7 +7,7 @@ Thanks for your interest! Bug reports, ideas, documentation, translations, and c
 You need Node.js 18 or newer. There are no dependencies to install.
 
 ```bash
-git clone https://github.com/USERNAME/local-password-manager.git
+git clone https://github.com/vioku/local-password-manager.git
 cd local-password-manager
 npm test        # all tests should pass
 npm start       # run the app (vault is in ./data, which is git-ignored)
