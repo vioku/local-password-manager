@@ -1,0 +1,39 @@
+{
+  "name": "local-password-manager",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Local CLI password manager with encrypted JSON vault",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "bin": {
+    "lpm": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "password-manager",
+    "cli",
+    "encryption",
+    "aes-256-gcm",
+    "scrypt",
+    "nodejs",
+    "offline",
+    "local-first"
+  ],
+  "files": [
+    "src",
+    "start.cmd",
+    "start.sh",
+    "start.command",
+    "scripts",
+    "README.md",
+    "README.en.md",
+    "LICENSE"
+  ]
+}
