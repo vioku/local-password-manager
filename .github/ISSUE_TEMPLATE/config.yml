@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability report
+    url: https://github.com/USERNAME/local-password-manager/security/advisories/new
+    about: Report security vulnerabilities privately, not through a public Issue.
